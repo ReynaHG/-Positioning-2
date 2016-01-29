@@ -6,23 +6,21 @@ div{
 
  .amarillo{
  	background: yellow;
- 	position: static;
+ 	position: relative;
  }
 
 .azul{
  	background: blue;
  	position: relative;
- 	left: 50px;
  	top: 50px;
-
-}
+ 	left: 50px;
+ }
  
 .verde{
  	background: green;
  	position: absolute;
  	top: 0;
  	left: 0;
- 
 }
 
 .mediano{
