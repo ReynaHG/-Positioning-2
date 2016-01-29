@@ -1,0 +1,35 @@
+/* Inserta tu CSS aqui */
+div{
+	height: 200px;
+	width:  200px;
+   }
+
+ .amarillo{
+ 	background: yellow;
+ 	position: static;
+ }
+
+.azul{
+ 	background: blue;
+ 	position: relative;
+ 	left: 50px;
+ 	top: 50px;
+
+}
+ 
+.verde{
+ 	background: green;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 
+}
+
+.mediano{
+	height: 100px;
+	width:  100px;
+}
+.bebe{
+	height: 50px;
+	width:  50px;
+}
